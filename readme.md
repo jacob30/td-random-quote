@@ -10,7 +10,8 @@
 
 Expected output:
 
-![Image 5](https://github.com/jacob30/gh-assets/blob/main/td1a.gif)
+![Demo Gif](https://github.com/jacob30/gh-assets/blob/main/td1a.gif)
+_Demo Gif will take a second to load_
 
 System Requirements:
 
