@@ -1,3 +1,7 @@
+# Technology
+
+- Html, Css, Javascript
+
 # Getting Started:
 
 1. Clone the project from github eg.
@@ -10,7 +14,7 @@
 
 Expected output:
 
-![Demo Gif](https://github.com/jacob30/gh-assets/blob/main/td1a.gif)
+![Demo Gif](https://github.com/jacob30/gh-assets/blob/main/td1.gif)
 _Demo Gif will take a second to load_
 
 System Requirements:
